@@ -44,7 +44,7 @@ ul{
 .sec1{
     color: whitesmoke;
     font-size: large;
-    background-image: url(./portfolio-images/images/banner.jpg);
+    background-image: url(./portfolio-images/images/banner2.png);
     background-size: cover;
     height: 100vh;
     border-bottom-style: hidden;
@@ -293,7 +293,7 @@ input:hover{
 button {
     color: #fff;
     display: block;
-    width: 160px;
+    width: 160px!important;
     height: 45px;
     outline: none;
     font-size: 18px;
